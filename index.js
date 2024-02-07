@@ -25,7 +25,7 @@ fs.copy(templatePath, projectPath)
                 console.error(err);
             } else {
                 console.log(`stdout: ${stdout}`);
-                console.error(`stderr: ${stderr}`);
+                //console.error(`stderr: ${stderr}`);
             }
         });
     })
