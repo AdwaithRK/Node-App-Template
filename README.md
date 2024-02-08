@@ -11,12 +11,13 @@ A streamlined Node.js application template using MVC architecture. This template
 
 2. Create your project:
    ```
-   node-project-init my-project
+   node-project-init 'my-project'
    ```
+   Replace 'my-project' with your project name.
 
 3. Navigate into your project directory:
    ```
-   cd my-project
+   cd 'my-project'
    ```
 
 4. Start the server:

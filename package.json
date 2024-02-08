@@ -1,6 +1,6 @@
 {
   "name": "node-project-init",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A comprehensive MVC-based template for Node.js applications, utilizing Express.js and Sequelize with MySQL as a dependency for efficient web application development.",
   "main": "index.js",
   "scripts": {
